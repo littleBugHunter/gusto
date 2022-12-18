@@ -1,2 +1,2 @@
-# Gusto
+# Gusto 🤌
 Procedurally generated recipes.
